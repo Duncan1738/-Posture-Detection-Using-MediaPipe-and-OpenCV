@@ -39,7 +39,7 @@ If bad posture is sustained for more than `180 seconds`, a warning is triggered.
 
 ##  Requirements
 
-📊 Example Output
+Example Output
 Overlay:
 
 Joint keypoints labeled 0–24
