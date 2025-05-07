@@ -57,8 +57,4 @@ Bad Posture in ❌ red
 📜 License
 This project is licensed under the MIT License.
 
-📧 Contact
-Duncan Kibet
-🔗 https://github.com/Duncan1738
-
 
